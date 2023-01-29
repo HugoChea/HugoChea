@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hugo CHEA
-- 👀 I’m interested in JS
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
